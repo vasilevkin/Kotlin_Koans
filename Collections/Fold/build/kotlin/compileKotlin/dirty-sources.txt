@@ -1,0 +1,2 @@
+/Users/svasilev/dev/Kotlin Koans/Collections/Fold/src/Shop.kt
+/Users/svasilev/dev/Kotlin Koans/Collections/Fold/src/Task.kt

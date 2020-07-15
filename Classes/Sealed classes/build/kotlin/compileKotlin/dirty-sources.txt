@@ -1,0 +1,1 @@
+/Users/svasilev/dev/Kotlin Koans/Classes/Sealed classes/src/Task.kt

@@ -1,0 +1,2 @@
+/Users/svasilev/dev/Kotlin Koans/Collections/Filter map/src/Shop.kt
+/Users/svasilev/dev/Kotlin Koans/Collections/Filter map/src/Task.kt
